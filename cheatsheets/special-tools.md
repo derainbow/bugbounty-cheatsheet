@@ -1,5 +1,5 @@
 ## Special Tools
-
+.
 **Resolution**
 
 - http://dnsbin.zhack.ca (DNS)
